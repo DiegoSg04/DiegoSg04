@@ -8,7 +8,7 @@
 
   ---
 
-  <p align="left">
+  <p align="center">
     🧬 <b>Exploring the digital void between code and security.</b><br>
     I specialize in building high-performance applications with <b>C++</b>, scalable backends in <b>Java</b>, 
     and automating security workflows with <b>Python</b>.
@@ -20,25 +20,7 @@
 | Field | Technologies |
 | :--- | :--- |
 | **Languages** | `Python` `Java` `C++` `Bash` |
-| **Security** | `Nmap` `Wireshark` `Metasploit` `OWASP` |
-| **Backend** | `Spring Boot` `FastAPI` `PostgreSQL` |
-| **Tools** | `Docker` `Git` `Linux (Arch/Kali)` |
 
----
-
-## 🛡️ Cybersecurity Focus
-> "The only secure system is one that is powered off." (But I'm working on the next best thing).
-
-* 🔍 **Current Interest:** Malware Analysis & Reverse Engineering.
-* 🔒 **Goal:** Implementing Zero-Trust architectures in software development.
-* 🏆 **CTFs:** Active player on TryHackMe / HackTheBox.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="AstraDev Stats" />
-</p>
 
 
 <!--
