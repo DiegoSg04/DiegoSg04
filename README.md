@@ -1,4 +1,5 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, Im Diego </h1>
 
 <!--
 **DiegoSg04/DiegoSg04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
