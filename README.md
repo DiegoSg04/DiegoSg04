@@ -1,11 +1,3 @@
-<div align="center">
-  <h1>🚀 Hi, I'm AstraDev </h1>
-
-
-| Field | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `Java` `C++` `Bash` |
-
 
 
 <!--
