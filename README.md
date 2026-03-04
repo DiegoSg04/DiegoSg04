@@ -1,10 +1,11 @@
 <div align="center">
-  <h1>🚀 Hi, I'm AstraDev (Diego)</h1>
+  <h1>🚀 Hi, I'm AstraDev </h1>
   <p align="center">
     <strong>Software Developer | Cybersecurity Enthusiast | Systems Architect</strong>
   </p>
-
+  <img width="6144" height="2728" alt="IMG_0418" src="https://github.com/user-attachments/assets/978c62db-cb7d-4099-bdf6-ac249fb1dd5d" />
   <br />
+
 
   ---
 
